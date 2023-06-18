@@ -1,11 +1,11 @@
-About r-optimr
-==============
+About r-optimr-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-optimr-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=optimr
 
 Package license: GPL-2
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-optimr-feedstock/blob/main/LICENSE.txt)
 
 Summary: Provides a test of replacement and extension of the optim() function to unify and streamline optimization capabilities in R for smooth, possibly box constrained functions of several or many parameters. This version has a reduced set of methods and is intended to be on CRAN.
 
