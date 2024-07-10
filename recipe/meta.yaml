@@ -1,6 +1,5 @@
 {% set version = '2019-12.16' %}
 {% set posix = 'm2-' if win else '' %}
-{% set native = 'm2w64-' if win else '' %}
 
 package:
   name: r-optimr
@@ -13,8 +12,7 @@ source:
   sha256: 73b1ed560ffd74599517e8baa4c5b293aa062e9c8d50219a3a24b63e72fa7c00
 
 build:
-  merge_build_host: True  # [win]
-  number: 3
+  number: 4
   noarch: generic
 
   rpaths:
